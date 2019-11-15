@@ -7,7 +7,6 @@ public class RetrofitManager {
     private static RetrofitManager mInstance = new RetrofitManager();
 
     private MyAPIService myAPIService;
-  
 
     private RetrofitManager() {
 //   //https://www.flickr.com/services/rest/?method=flickr.photos.search&
